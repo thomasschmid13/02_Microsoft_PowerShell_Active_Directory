@@ -47,3 +47,6 @@ Get-Help New-Aduser
 #Hilfe für New-Aduser cmdlet anzeigen mit Beispielen
 Get-Help New-Aduser -Examples
 
+#Erstellen eines neuen Active Directory Benutzers
+$Username = "Muster Peter"
+$Password = "Password1234$"
